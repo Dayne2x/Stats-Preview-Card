@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [GitHub Code](https://github.com/Dayne2x/Order-Summary-Component)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Order-Summary-Component/)
+- Solution URL: [GitHub Code](https://github.com/Dayne2x/Stats-Preview-Card)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Stats-Preview-Card/)
 
 ## My process
 
